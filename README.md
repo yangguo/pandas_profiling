@@ -1,5 +1,5 @@
 ---
-title: Demo
+title: pandas_profiling
 emoji: 👀
 colorFrom: yellow
 colorTo: red
